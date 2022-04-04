@@ -1,0 +1,73 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1648916493165') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-trousers:before {
+  content: "\e610";
+}
+
+.icon-icon:before {
+  content: "\e603";
+}
+
+.icon-guanlian:before {
+  content: "\e6af";
+}
+
+.icon-tuandui:before {
+  content: "\e611";
+}
+
+.icon-tuanduizonglan:before {
+  content: "\e56b";
+}
+
+.icon-tuanduizonglan-hover:before {
+  content: "\e56c";
+}
+
+.icon-zhuangbei:before {
+  content: "\e665";
+}
+
+.icon-shipin:before {
+  content: "\e61e";
+}
+
+.icon-charutupian:before {
+  content: "\ec7f";
+}
+
+.icon-card-hero:before {
+  content: "\e61f";
+}
+
+.icon-Menu:before {
+  content: "\e664";
+}
+
+.icon-duikang-VS:before {
+  content: "\e699";
+}
+
+.icon-back:before {
+  content: "\e6db";
+}
+
+.icon-menu:before {
+  content: "\e63e";
+}
+
+.icon-shipin1:before {
+  content: "\e66a";
+}
+
